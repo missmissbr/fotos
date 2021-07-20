@@ -1,15 +1,13 @@
+
 <div>
 	<br>
-</div>
-<div>
 	<br>
 </div>
-<div>
+
 	<hr size="1" color="#DCDCDC" width="100%" align="center">
-</div>
+	
 <div>
-    <img src="https://github.com/missmissbr/fotos/blob/main/Tiago-Assign.png?raw=true" width="530" height="259">
-	<hr size="1" color="#DCDCDC" width="100%" align="center">
+	<img src="https://github.com/missmissbr/fotos/blob/main/Tiago-Assign.png?raw=true" width="530" height="259">
 </div>
 <div>
 	<hr size="1" color="#DCDCDC" width="100%" align="center">
